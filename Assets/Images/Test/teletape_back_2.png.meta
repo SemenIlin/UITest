@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 5b465b8b707612f428b6de7bd52e217e
+guid: ed796d4c64fae4249a7d18d85e0d61c5
 TextureImporter:
   internalIDToNameTable:
   - first:
@@ -8,6 +8,21 @@ TextureImporter:
   - first:
       213: -1104644346000688769
     second: teletape_back_2_1
+  - first:
+      213: -6567322246997348176
+    second: teletape_back_2_2
+  - first:
+      213: -6752702563111949026
+    second: teletape_back_2_3
+  - first:
+      213: -170055008576042584
+    second: teletape_back_2_4
+  - first:
+      213: 3177102395775294204
+    second: teletape_back_2_5
+  - first:
+      213: -7087818480467284198
+    second: teletape_back_2_6
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -110,10 +125,10 @@ TextureImporter:
       name: teletape_back_2_0
       rect:
         serializedVersion: 2
-        x: 81
-        y: 119
-        width: 15
-        height: 37
+        x: 159
+        y: 0
+        width: 44
+        height: 58
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -132,11 +147,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 203
-        height: 156
+        y: 118
+        width: 85
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -144,6 +159,111 @@ TextureImporter:
       bones: []
       spriteID: f793c79e1d38ba0f0800000000000000
       internalID: -1104644346000688769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teletape_back_2_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 159
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f336263f2cd4a0800000000000000
+      internalID: -6567322246997348176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teletape_back_2_3
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 5
+        width: 111
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1da7d3dbc49942a0800000000000000
+      internalID: -6752702563111949026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teletape_back_2_4
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 118
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a98c85eed7d3adf0800000000000000
+      internalID: -170055008576042584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teletape_back_2_5
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 59
+        width: 15
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa9a33cbc5571c20800000000000000
+      internalID: 3177102395775294204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: teletape_back_2_6
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 128
+        width: 7
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f6c4715a203ad90800000000000000
+      internalID: -7087818480467284198
       vertices: []
       indices: 
       edges: []

@@ -79,7 +79,7 @@ public class ContainerScrolling : MonoBehaviour, IBeginDragHandler, IDragHandler
             return;
 
         selectedID++;
-        contentRect.anchoredPosition = panPos[selectedID];
+        contentRect.anchoredPosition = (Vector2)panPos[selectedID];
     }
 
     public void GetPreviousPage()
@@ -88,7 +88,7 @@ public class ContainerScrolling : MonoBehaviour, IBeginDragHandler, IDragHandler
             return;
 
         selectedID--;
-        contentRect.anchoredPosition = panPos[selectedID];
+        contentRect.anchoredPosition = (Vector2)panPos[selectedID];
     }
 
     public void OnBeginDrag(PointerEventData eventData)
